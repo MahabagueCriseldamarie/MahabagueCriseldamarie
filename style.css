@@ -1,0 +1,53 @@
+p{
+    color: blue;
+    font-size: 30pt;
+    font-family: Arial;
+}
+.BSIT203{
+    color: red;
+}
+
+#special-paragraph{
+    color: green;
+}
+body{
+    margin:0;
+}
+header{
+    border: 1px dotted blue;
+    display: grid;
+    grid-template-columns: auto auto;
+    justify-content: space-between;
+    background-color: rgb(209, 131, 144);
+    padding:1rem 0rem;
+}
+
+header div{
+    color: orangered;
+}
+
+header nav a{
+    color: aliceblue;
+}
+
+section{
+    display:grid;
+    grid-template-columns: 40% 40%;
+    justify-content:space-around;
+}
+
+section .title h1{
+    font-size: 20pt;
+}
+
+section .title h2{
+    font-size: 15pt;
+    font-weight: normal;
+}
+
+section .title button{
+    background-color: green;
+    color: white;
+    pa
+    
+}
