@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+   <link rel="stylesheet" href="assets/style.css">
+</head>
+
+<body>
+    <header>
+        <div>LOGO</div>
+        <nav>
+            <a href="">Home</a>
+            <a href="">Profile</a>
+            <a href="">Contact Us</a>
+        </nav>
+        
+    </header>
+
+    <main>
+        <section>
+            <div class="title">
+                <h1> My First Website</h1>
+                <h2>Welcome</h2>
+                <button>Read More</button>
+            </div>
+            <div class="poster-image">
+<img src="assets/image/anime.jpg" alt="anime">
+            </div>
+  
+        </section>
+    </main>
+    <P class="BSIT203"> Star Wurlitzer</P>
+    <P id="special-paragraph">1234</P>
+    <p id="special-paragraph"> To the moon</p>
+    <p class="BSIT203"> Diary ng Panget</p>
+    <P class="BSIT203">Moonstar88</P>
+    <P id="special-paragraph">Syntaxx Error</P>
+    <p id="special-paragraph"> to the beautiful you</p>
+    <p class="BSIT203"> Shine Bright like a diamond</p>
+</body>
+</html>
